@@ -353,7 +353,7 @@ The `Input` component is where the user enters the search string. It is quite sh
 
 Now let's look at the styled components `SearchIcon`, `Form`, `Input` as well as the ones imported in `index.js`.
 
-## `styled.js`
+## `styles.js`
 
 ```js:title=src/components/search/styles.js
 import React from "react"
